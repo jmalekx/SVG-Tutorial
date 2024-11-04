@@ -15,6 +15,7 @@ This is a university mini-project assignment for Introduction to Multimedia Modu
 
 ## Project Information
 
+The project webpage can be found [here](https://jmalekx.github.io/SVG-Tutorial/)!
 This project provides a foundation for understanding SVG’s potential in multimedia and is structured to educate users on creating scalable, interactive graphics. Further development could include:
 
 - Advanced SVG animations
